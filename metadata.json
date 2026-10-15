@@ -1,0 +1,6 @@
+{
+  "name": "Mộc Điều - Hộp Quà Hạt Điều Tự Nhiên Cao Cấp",
+  "description": "Hộp quà hạt điều Mộc Điều - Vị Mộc An Yên (2 hũ x 400g). Mộc vị tự nhiên – Trọn vị hạt điều. Đặt hàng trực tiếp, miễn phí vận chuyển từ 500.000đ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
